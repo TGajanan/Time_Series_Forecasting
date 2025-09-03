@@ -1,6 +1,7 @@
 # 🛒 Time Series Forecasting - Product Sales  
 
-![Owner avatar](https://avatars.githubusercontent.com/u/000000?v=4)  
+![Owner avatar]<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2025, 04_18_52 PM" src="https://github.com/user-attachments/assets/c491f66c-19c2-47ee-b13c-26ca6bc2adfc" />
+  
 **Repository:** TGajanan/Time_Series_Forecasting  
 
 ---
